@@ -6,3 +6,5 @@ Aplikasi web dapat diakses oleh tiga (3) role atau golongan user yaitu admin, te
 ![eFeverCareWeb](images/02.jpg)
 User dengan role Tenaga Kesehatan untuk mengatur pasien mana yang akan ditampilkan di dashboard. Sedangkan dashboard digunakan oleh tenaga kesehatan untuk memantau beberapa data history suhu tubuh banyak pasien (anak/bayi).
 ![eFeverCareWeb](images/03.jpg)
+User dengan role orang tua digunakan orang tua hanya untuk melihat history suhu tubuh anaknya saja. Pada halaman ini orang tua/pasien dapat berkomunikasi dengan tenaga kesehatan untuk melakukan konsultasi.
+![eFeverCareWeb](images/04.jpg)
